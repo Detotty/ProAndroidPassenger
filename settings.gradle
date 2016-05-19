@@ -1,0 +1,6 @@
+include ':app', ':CircularImageView_Client'
+include ':library_pinnlistivew'
+include ':circularImageView'
+include ':cropLibrary'
+include ':library_pager'
+include ':facebookSDK'

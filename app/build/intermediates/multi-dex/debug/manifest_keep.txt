@@ -1,0 +1,41 @@
+-keep class com.fixeperts.customer.RegisterActivity { <init>(); }
+-keep class com.soundcloud.android.crop.CropImageActivity { <init>(); }
+-keep class com.fixeperts.customer.MainDrawerActivity { <init>(); }
+-keep class com.facebook.LoginActivity { <init>(); }
+-keep class io.card.payment.CardIOActivity { <init>(); }
+-keep class io.card.payment.DataEntryActivity { <init>(); }
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(); }
+-keep class com.fixeperts.customer.GCMIntentService { <init>(); }
+-keep class com.fixeperts.customer.UberMyThingActivity { <init>(); }
+-keep class com.fixeperts.customer.UberAddPaymentActivity { <init>(); }
+-keep class com.fixeperts.customer.ProfileActivity { <init>(); }
+-keep class com.fixeperts.customer.MenuDescActivity { <init>(); }
+-keep class com.fixeperts.customer.UberViewPaymentActivity { <init>(); }
+-keep class com.fixeperts.customer.HistoryActivity { <init>(); }
+-keep class com.fixeperts.customer.HelpActivity { <init>(); }
+-keep class com.fixeperts.customer.TourListActivity { <init>(); }
+-keep class com.fixeperts.customer.TourDetailsActivity { <init>(); }
+-keep class com.fixeperts.customer.BookingActivity { <init>(); }
+-keep class com.fixeperts.customer.MainActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PayPalService { <init>(); }
+-keep class com.paypal.android.sdk.payments.PaymentActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.LoginActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PaymentMethodActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PaymentConfirmActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.PayPalFuturePaymentActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.FuturePaymentConsentActivity { <init>(); }
+-keep class com.paypal.android.sdk.payments.FuturePaymentInfoActivity { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

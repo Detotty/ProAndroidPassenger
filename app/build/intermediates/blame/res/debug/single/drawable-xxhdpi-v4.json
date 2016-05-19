@@ -1,0 +1,1078 @@
+[
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\source.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\source.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_profile.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_profile.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xxhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_uber.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_uber.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\creditcard.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\creditcard.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_star.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_star.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_name.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_name.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_signin.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\btn_signin.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_1.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\loading_1.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pin_detail_bg.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\pin_detail_bg.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nav_share.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\nav_share.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_actionbar.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_actionbar.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\name_bg.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\name_bg.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cash_selected.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\cash_selected.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_menu.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_menu.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fare_info.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\fare_info.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pin_client_org.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\pin_client_org.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_payment.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ic_payment.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\checkbox.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\checkbox.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nav_referral.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\nav_referral.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xxhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\share_ic.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\share_ic.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\start_point.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\start_point.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_medium.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_medium.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_alipay.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_alipay.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\time.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\time.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_off_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mile.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\mile.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_discover.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_discover.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\line.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\line.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\big_popup.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\big_popup.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_black_disabled.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__button_black_disabled.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_edittext_payment_small.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_edittext_payment_small.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_1.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xxhdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_googlewallet.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_googlewallet.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tour_menu_icon.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\tour_menu_icon.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\places_ic_clear.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_google.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\btn_google.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_delegate.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_delegate.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\selected_service.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\selected_service.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nav_paper.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\nav_paper.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_bill.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\btn_bill.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\destination_pin.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\destination_pin.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\servicr_shadow.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\servicr_shadow.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\time_popup.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\time_popup.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_img.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_img.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_blue_normal.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__button_blue_normal.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_attention.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\img_attention.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search_ic.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\search_ic.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\half_day_tour_bg.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\half_day_tour_bg.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\star_feedback_blank.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\star_feedback_blank.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\big_divider.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\big_divider.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_white_process.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_white_process.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_pickup.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\btn_pickup.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\user_actionbar.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\user_actionbar.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_setting_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\divider_rate.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\divider_rate.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\source_fill_box.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\source_fill_box.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\seprator.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\seprator.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\whale_tour_shadow.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\whale_tour_shadow.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\car.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\car.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_route.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_route.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\receipt_icon.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\receipt_icon.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\call.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\call.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\options.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\options.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pin_driver.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\pin_driver.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\schedule_title.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\schedule_title.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\satr_feedback_blank.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\satr_feedback_blank.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_0.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xxhdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\default_user.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\default_user.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nav_support.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\nav_support.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_1_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_name_menu.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_name_menu.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_blue_pressed.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__button_blue_pressed.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\taxi_point.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\taxi_point.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\taxi_pickup.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\taxi_pickup.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\history_header_line_white.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\history_header_line_white.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\no_items.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\no_items.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\fill_star.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\fill_star.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\clock.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\clock.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\history_header_line_green.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\history_header_line_green.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_credit.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_credit.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_setting_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_centerlocation_pressed.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__button_centerlocation_pressed.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\action_bar.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\action_bar.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\credit_bg.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\credit_bg.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cash.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\cash.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\source_line.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\source_line.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrow_popup.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_popup.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_2.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\loading_2.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\car_ic_rating.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\car_ic_rating.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\popup_down_arrow.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\popup_down_arrow.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\close_button.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\close_button.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\new_pin.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\new_pin.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_splash.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_splash.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_centerlocation_normal.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__button_centerlocation_normal.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_visa.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_visa.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\divider_date.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\divider_date.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\comman_tour_box.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\comman_tour_box.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_on.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xxhdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\creditcard_selected.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\creditcard_selected.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\un_checkbox.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\un_checkbox.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_fb.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\btn_fb.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\notification_box.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\notification_box.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bill_paper.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bill_paper.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\credit.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\credit.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_0_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_play.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_large.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_large.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\call_usre.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\call_usre.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\button_limo.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\button_limo.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\car_ic_route.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\car_ic_route.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrow.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\info.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\info.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\notification_box_arrived.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\notification_box_arrived.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pickup_round.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\pickup_round.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back_arrow.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cover_image.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\cover_image.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_black_normal.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__button_black_normal.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_select_service.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_select_service.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_booking.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_booking.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_time_mile.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_time_mile.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_btn_small.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_btn_small.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_edittext.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_edittext.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\divider_route.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\divider_route.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rate_star.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\rate_star.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\star_feedback.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\star_feedback.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_feedback.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_feedback.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\notification_line.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\notification_line.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_bill.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_bill.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\date_button.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\date_button.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_paypal.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_paypal.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\add_credit.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\add_credit.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\places_ic_search.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nav_payment.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\nav_payment.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\divider.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\divider.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\comment_line.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\comment_line.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\app_name.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\app_name.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\blank_star.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\blank_star.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cancel_trip.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\cancel_trip.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\promo_code_icon.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\promo_code_icon.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\camera.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\or.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\or.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_2_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\credit_icon.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\credit_icon.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\check_ic.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\check_ic.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search_icon.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search_button.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\search_button.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_mastercard.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_mastercard.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\taxi.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\taxi.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\right_ic.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\right_ic.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nav_profile.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\nav_profile.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\menu.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\menu.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_disabled_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\no_plate.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\no_plate.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_2.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable-xxhdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_light.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_rate.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_rate.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\map_popup.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\map_popup.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\number_plate.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\number_plate.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_submit.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\btn_submit.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_bill_trans.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_bill_trans.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pin_client.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\pin_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__nav_logout.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__nav_logout.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\task_1.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\task_1.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_register.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\btn_register.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\popup.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\popup.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\task_2.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\task_2.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.4.0\\res\\drawable-xxhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_small.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\bg_small.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\button_limo_pressed.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\button_limo_pressed.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\nav_divider_line.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\nav_divider_line.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__creditcard_amex.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__creditcard_amex.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\green.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\green.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_pause.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\message_icon.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\message_icon.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__nav_history.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__nav_history.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\line_divider.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\line_divider.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ub__button_black_pressed.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\ub__button_black_pressed.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\red.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\red.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\loading_3.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\drawable-xxhdpi\\loading_3.png"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xxhdpi\\ic_media_route_on_mono_dark.png"
+    }
+]

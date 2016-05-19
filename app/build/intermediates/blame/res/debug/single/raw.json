@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "F:\\MyWork\\Pro Android Passenger\\app\\build\\intermediates\\res\\merged\\debug\\raw\\countrycodes.json",
+        "source": "F:\\MyWork\\Pro Android Passenger\\app\\src\\main\\res\\raw\\countrycodes.json"
+    }
+]

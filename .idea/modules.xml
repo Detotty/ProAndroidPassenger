@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircularImageView_Client/CircularImageView_Client.iml" filepath="$PROJECT_DIR$/CircularImageView_Client/CircularImageView_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro Android Passenger.iml" filepath="$PROJECT_DIR$/Pro Android Passenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circularImageView/circularImageView.iml" filepath="$PROJECT_DIR$/circularImageView/circularImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropLibrary/cropLibrary.iml" filepath="$PROJECT_DIR$/cropLibrary/cropLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebookSDK/facebookSDK.iml" filepath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pager/library_pager.iml" filepath="$PROJECT_DIR$/library_pager/library_pager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pinnlistivew/library_pinnlistivew.iml" filepath="$PROJECT_DIR$/library_pinnlistivew/library_pinnlistivew.iml" />
+    </modules>
+  </component>
+</project>
